@@ -104,4 +104,4 @@
 
 #
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+![footer](https://github.com/thrifat007/thrifat007/blob/main/PNG/footer.png)
